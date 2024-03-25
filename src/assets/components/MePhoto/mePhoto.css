@@ -1,0 +1,10 @@
+.mePhoto {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+.mePhoto img {
+  width: 100%;
+  max-width: 300px;
+}
