@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@splinetool/react-spline": "^2.2.6",
+    "@splinetool/runtime": "^1.0.91",
     "bootstrap": "^5.3.3",
     "jquery": "^3.7.1",
     "popper.js": "^1.16.1",
